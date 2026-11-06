@@ -52,7 +52,7 @@ python simzqr_code.py
 
 ## Screenshots
 
-Screenshots of the application will be added here.
+![alt text](simzQRcode.png)
 
 ## Author
 
